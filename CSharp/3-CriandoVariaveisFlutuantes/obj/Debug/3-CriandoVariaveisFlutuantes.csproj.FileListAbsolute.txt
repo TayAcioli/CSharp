@@ -1,0 +1,6 @@
+C:\Users\Tay\Documents\Alura\C#\CSharp\3-CriandoVariaveisFlutuantes\bin\Debug\3-CriandoVariaveisFlutuantes.exe.config
+C:\Users\Tay\Documents\Alura\C#\CSharp\3-CriandoVariaveisFlutuantes\bin\Debug\3-CriandoVariaveisFlutuantes.exe
+C:\Users\Tay\Documents\Alura\C#\CSharp\3-CriandoVariaveisFlutuantes\bin\Debug\3-CriandoVariaveisFlutuantes.pdb
+C:\Users\Tay\Documents\Alura\C#\CSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.csproj.CoreCompileInputs.cache
+C:\Users\Tay\Documents\Alura\C#\CSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.exe
+C:\Users\Tay\Documents\Alura\C#\CSharp\3-CriandoVariaveisFlutuantes\obj\Debug\3-CriandoVariaveisFlutuantes.pdb
